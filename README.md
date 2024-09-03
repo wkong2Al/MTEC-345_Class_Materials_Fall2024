@@ -1,5 +1,5 @@
 # MTEC-345: Machine Learning for Musicians
-### Syllabus for Spring 2024
+### Syllabus for Fall 2024
 
 ## Class Links
 - [Lecture Videos](https://www.youtube.com/playlist?list=PLiY8GflCS95tFJQuPW_sk47Maw6jS9lNf)
@@ -8,7 +8,7 @@
 - [Homework Repository](https://github.com/MTEC-345/MTEC-345_Homework_Spring2024)
 
 ## Class Time & Location
-- Wednesdays, 6:00pm ~ 8:00PM EST
+- Thursdays, 6:00pm ~ 8:00PM EST
 - 150-B54
 
 ## Instructor Info
@@ -20,7 +20,7 @@
 
 ## Office Hours
 
-- Tuesdays, 10:30am - 11:30am EST
+- Wednesday, 10:30am - 11:30am EST via Zoom
 - Hours may be changed/updated during the semester
 - Any changes will be announced during class and posted to the Sullabus on GitHub
 
@@ -86,22 +86,21 @@ Document your progress in the class using Jupyter Notebook, GitHub, and README a
 You will complete two project in this class. The lab material will provide the necessary techniques, and the class discussion will help you develop ideas for each. You will show your project assignments in class in weeks 8 and 14. You will be expected to document your projects.
 
 #### Mid-term Project
-The midterm project aims to get students familiarized with machine learning systems in the context of music and art. Students will work in teams to design and present a machine learning-based musical application. The project must include presentations and demos. This exercise aims to learn to rapidly iterate on ideas in a team environment while encouraging you to think broadly about using machine learning systems.
+The midterm project aims to get students familiarized with machine learning systems in the context of music and art. Students will work to design and present a machine learning-based musical application. The project must include presentations and demos. This exercise aims to learn to rapidly iterate on ideas in a team environment while encouraging you to think broadly about using machine learning systems.
 
-Week|Milestone|Deadline
-:--|:--|:--
-Week 6| Proposal | March 4, 2024
-Week 7| Review | March 11, 2024
-Week 8| Implementation | March 18, 2024
-
+Deadline|Milestone
+:--|:--
+Week 6| Proposal
+Week 7| Review
+Week 8| Implementation
 #### Final Project
 The final project is an open-ended result of the class experience and knowledge. Based on the frame of reference established in the first half of the semester, students will elaborate on a decided-upon topic of interest. The final result will include a new application of machine learning in the context of music.
 
-Week|Milestone|Deadline
-:--|:--|:--
-Week 13| Proposal | April 22, 2024
-Week 14| Review | April 29, 2024
-Week 15| Implementation | May 6, 2024
+Deadline |Milestone
+:--|:--
+Week 13| Proposal
+Week 14| Review
+Week 15| Implementation
 
 ## Project and Journal Submission Policy
 The instructor will post descriptions for projects and lab exercises on the class material GitHub repository. The instructions will not be on [Canvas](canvas.berklee.edu). <u>Please follow all project instructions.</u> If something is missing, you will be notified and given the opportunity to resubmit, but with a late penalty.
@@ -165,23 +164,23 @@ Using AI to generate solutions without effort and comprehension is not only agai
 All code submitted must be understood thoroughly by the student. This includes explaining the code's logic, why specific decisions were made, and how different parts of the code interact. If students use LLMs or other AI tools to help develop a portion of their code, they must cite this assistance in their code comments. The instructors are open to questions if students are unsure whether their use of AI tools adheres to the course policy. We encourage students to ask these questions to ensure they use these powerful tools responsibly and effectively. Failure to comply with this policy will be treated the same as any other violation of academic integrity. It may result in a grade reduction, course failure, or other disciplinary action.
 
 ## Course Schedule
-Week |Topic |Assignment |Date
-:-- |:-- |:-- |:--
-Week 1 | Getting Started | Lab Exercise 1& First Research Work Kick-Off | January 29, 2024
-Week 2 | Machine Learning Basics | Lab Exercise 2 | February 5, 2024
-Week 3 | Deep Learning | Lab Exercise 3 | February 12, 2024
-Week 4 | Symbolic Music Generation | Lab Exercise 4 | February 19, 2024
-Week 5 | Audio-Based Generative AI | Mid-term Project Proposal | February 26, 2024
-Week 6 | Mid-term Project Proposal | Mid-term Project Review | March 4, 2024
-Week 7 | Mid-term Project Review | Mid-term Project Presentation | March 11, 2024
-Week 8 | Mid-term Project Presentation | Second Research Work Kick-Off | March 18, 2024
-Week 9 | Music Production | Lab Exercise 5 | March 25, 2024
-Week 10 | Music Information Retrieval | Lab Exercise 6 | April 1, 2024
-Week 11 | Interactive Music Systems | Final Project Proposal | April 8, 2024
-Week 12 | Catch Up (subject to change) | | April 15, 2024
-Week 13 | Final Project Proposal | Final Project Review | April 22, 2024
-Week 14 | Final Project Review | Final Project Presentation | April 29, 2024
-Week 15 | Final Project Presentation | | May 6, 2024
+Week |Topic |Assignment
+:-- |:-- |:--
+Week 1 | Getting Started | Lab Exercise 1& First Research Work Kick-Off
+Week 2 | Machine Learning Basics | Lab Exercise 2
+Week 3 | Deep Learning | Lab Exercise 3
+Week 4 | Symbolic Music Generation | Lab Exercise 4
+Week 5 | Audio-Based Generative AI | Mid-term Project Proposal
+Week 6 | Mid-term Project Proposal | Mid-term Project Review
+Week 7 | Mid-term Project Review | Mid-term Project Presentation
+Week 8 | Mid-term Project Presentation | Second Research Work Kick-Off
+Week 9 | Music Information Retrieval | Lab Exercise 5
+Week 10 | Interactive Music Systems | Lab Exercise 6
+Week 11 | Transformers | Final Project Proposal
+Week 12 | Catch Up (subject to change) |
+Week 13 | Final Project Proposal | Final Project Review
+Week 14 | Final Project Review | Final Project Presentation
+Week 15 | Final Project Presentation |
 
 ## Class Recordings
 Recordings of class sessions will be on [YouTube](https://www.youtube.com/playlist?list=PLiY8GflCS95tFJQuPW_sk47Maw6jS9lNf). Sign in to YouTube with your Berklee student account to view the lecture videos.
