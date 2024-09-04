@@ -7,7 +7,7 @@ Start Date and Time| Due Date and Time | Cut-off Date and Time |
 \**Eastern Standard Time (EST) is used for dates and times with the 24-hour clock*
 
 ## Submission Guideline
-In the [github.com/MTEC-345/MTEC-345_Homework](https://github.com/MTEC-345/MTEC-345_Homework_Spring2024) repository, under a folder with your name, create a new folder named `Homework1`. Add `README.md` to this folder. Create a new branch, commit, push, and make a pull request to complete your submission.
+In the [github.com/MTEC-345/MTEC-345_Homework](https://github.com/MTEC-345/MTEC-345_Homework_Fall2024) repository, under a folder with your name, create a new folder named `Homework1`. Add `README.md` to this folder. Create a new branch, commit, push, and make a pull request to complete your submission.
 
 ## Grading Rubric
 
@@ -60,7 +60,7 @@ Follow the tasks below and maintain a journal of your progress. Refer to the doc
 5. Update the repository regularly to get new class materials. Use the `Fetch origin` and then the `Pull origin` buttons.
 
 #### Contributing to the Homework Repository
-1. Clone the [github.com/MTEC-345/MTEC-345_Homework](https://github.com/MTEC-345/MTEC-345_Homework_Spring2024) repository to your local system.
+1. Clone the [github.com/MTEC-345/MTEC-345_Homework](https://github.com/MTEC-345/MTEC-345_Homework_Fall2024) repository to your local system.
 2. You should have write access to this repository for your weekly journal submissions. Contact the instructor if you do not.
 3. Create a root-level folder bearing your name in the repository.
 4. In your named folder, establish a subfolder titled `Homework1`.

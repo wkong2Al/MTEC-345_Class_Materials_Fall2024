@@ -3,9 +3,9 @@
 
 ## Class Links
 - [Lecture Videos](https://www.youtube.com/playlist?list=PLiY8GflCS95tFJQuPW_sk47Maw6jS9lNf)
-- [Canvas Link](https://canvas.berklee.edu/courses/23290)
+- [Canvas Link](https://canvas.berklee.edu/courses/31473)
 - [Class Materials Repository](https://github.com/MTEC-345/MTEC-345_Class_Materials_Fall2024)
-- [Homework Repository](https://github.com/MTEC-345/MTEC-345_Homework_Spring2024)
+- [Homework Repository](https://github.com/MTEC-345/MTEC-345_Homework_Fall2024)
 
 ## Class Time & Location
 - Thursdays, 6:00pm ~ 8:00PM EST

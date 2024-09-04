@@ -3,7 +3,7 @@
 Having chosen your song, research the song, how it was made, the underlying technology, and the and team that created it. Present what you learned to the class. Your presentation must include slides, and may also include your creative musical work that uses the same (or similar) underlying technologies.
 
 ## Submission Guideline
-In the [github.com/MTEC-345/MTEC-345_Homework](https://github.com/MTEC-345/MTEC-345_Homework_Spring2024) repository, under a folder with your name, create a new folder named `ResearchWork1`. Add your journal, project assets, and presentation slides to this folder. Create a new branch, commit, push, and make a pull request to complete your submission.
+In the [github.com/MTEC-345/MTEC-345_Homework](https://github.com/MTEC-345/MTEC-345_Homework_Fall2024) repository, under a folder with your name, create a new folder named `ResearchWork1`. Add your journal, project assets, and presentation slides to this folder. Create a new branch, commit, push, and make a pull request to complete your submission.
 
 ### Project Assets
 In the `ResearchWork1` folder, include all files required to run your project, including any source code, configuration files, sample inputs, databases, etc. If your project is bigger than **100MB** in memory, contact your instructor immediately to seek alternative ways to submit your project assets.
