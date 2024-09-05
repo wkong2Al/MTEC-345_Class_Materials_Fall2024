@@ -2,7 +2,7 @@
 
 Start Date and Time| Due Date and Time | Cut-off Date and Time |
 ---|---|---|
-10:50:00 on September 6, 2023 | 09:00:00 on September 20, 2023 | 09:00:00 on September 27, 2023 |
+18:00:00 on September 5, 2024 | 18:00:00 on September 12, 2024 | 18:00:00 on September 19, 2024 |
 
 \**Eastern Standard Time (EST) is used for dates and times with the 24-hour clock*
 
@@ -39,9 +39,9 @@ The journal includes reflection on learning outcomes, challenges faced, and solu
 - Read the syllabus and take the syllabus quiz on OL.
 
 ## Research Work Sign Up
-If you have not already, use [this URL](https://tallycal.com/p/918400) to sign up for a time slot. Use [this URL](https://www.signupgenius.com/go/10C0B4FABAC2DA5F4C25-47525535-choose) to choose a participant for research. You will have a week to decide. Please only sign up for a single time slot and participant.
+If you have not already, use [this URL](https://tallycal.com/p/1486340) to sign up for a time slot. Use [this URL](https://www.signupgenius.com/go/10C0B4FABAC2DA5F4C25-51107316-choose) to choose a participant for research. You will have a week to decide. Please only sign up for a single time slot and participant.
 
-Check the finalists for the AI Song Contest 2022 [here](https://www.aisongcontest.com/the-2022-finalists) to make your decision.
+Check the finalists for the AI Song Contest 2024 [here](https://www.aisongcontest.com/the-2024-finalists) to make your decision.
 
 ## Lab Exercise: GitHub 
 
