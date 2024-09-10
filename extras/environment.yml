@@ -12,10 +12,10 @@ dependencies:
   - python=3.12
   - pip
   - pytorch::pytorch=2.4
+  - pytorch::torchaudio
   - numpy
   - jupyter
   - scipy
   - matplotlib
   - pip:
     - librosa
-
