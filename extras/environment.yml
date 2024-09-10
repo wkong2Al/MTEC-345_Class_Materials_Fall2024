@@ -1,5 +1,8 @@
 # Install this environment with:
 # conda env create -f environment.yml
+#
+# If you make changes to this file, update the environment with:
+# conda env update -f environment.yml
 
 name: mtec-345
 channels:
