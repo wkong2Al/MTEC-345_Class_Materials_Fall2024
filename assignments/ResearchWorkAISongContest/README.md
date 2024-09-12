@@ -37,7 +37,7 @@ Coding Journal: Thoroughness of entries, reflection on coding challenges and lea
 ## Objective:
 Throughout the semester, we will explore the intersection of music and machine learning. A foundational step is understanding prior work in this domain. This exercise will have you delve into past projects or concepts, aiming to inspire your future creations. Starting week 3, each student will present their research findings to the class.
 
-Listen to the [2023 finalist songs here](https://www.aisongcontest.com/the-2024-finalists).
+Listen to the [2024 finalist songs here](https://www.aisongcontest.com/the-2024-finalists).
 
 ## Scheduling
 1. Book a presentation time slot using [this link](https://tallycal.com/p/1486340).
